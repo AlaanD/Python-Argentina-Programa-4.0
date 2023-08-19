@@ -1,4 +1,5 @@
-def potenciacion(base, exponente):
+#valores por defecto
+def potenciacion(base = 2, exponente = 2):
     """
     Comentario en python, aca podemos comentar que hace la funcion 
     y los paramentros que utiliza. Luego llamamos con help(nombreFuncion) 
