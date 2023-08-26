@@ -14,7 +14,7 @@ Tip: se debe utilizar estructuras condicionales.
 """
 
 class SueldoPromedio:
-    
+
     def calcularPromedio(sueldo_pri_6m, sueldo_sig_4m, sueldo_ult_2m):
         total = sueldo_pri_6m + sueldo_sig_4m + sueldo_ult_2m
         resultado = total / 12
